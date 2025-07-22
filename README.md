@@ -22,7 +22,7 @@ S.Kom., M.Kom.
 
 ### Prasyarat  
 - Dataset:
-   - final_data (menjalankan ipynb utama dari awal) = di folder dataset
+   - final_data (menjalankan ipynb utama dari awal) = [link](https://drive.google.com/drive/folders/1JYM3TTH2_LtXNKMSJXiwVNp5gGe7CmyW?usp=sharing)
    - image before cropping:
       - normal = [link](https://drive.google.com/drive/folders/1u0kBhtxuOKyxT38c7uPZzhpqCmF6_ivN?usp=sharing)
       - abnormal = [link](https://drive.google.com/drive/folders/1zqSWSObN3vIkF6vd3S_lrgn6c8WT8Ife?usp=sharing
