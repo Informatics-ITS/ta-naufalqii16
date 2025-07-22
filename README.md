@@ -25,8 +25,8 @@ S.Kom., M.Kom.
    - final_data (menjalankan ipynb utama dari awal) = [link](https://drive.google.com/drive/folders/1JYM3TTH2_LtXNKMSJXiwVNp5gGe7CmyW?usp=sharing)
    - image before cropping:
       - normal = [link](https://drive.google.com/drive/folders/1u0kBhtxuOKyxT38c7uPZzhpqCmF6_ivN?usp=sharing)
-      - abnormal = [link](https://drive.google.com/drive/folders/1zqSWSObN3vIkF6vd3S_lrgn6c8WT8Ife?usp=sharing
-   - data raw:)
+      - abnormal = [link](https://drive.google.com/drive/folders/1zqSWSObN3vIkF6vd3S_lrgn6c8WT8Ife?usp=sharing)
+   - data raw:
       - normal = [link](https://drive.google.com/file/d/1GM3kMMXTyOzLcaiyN4zJFnlaek5JSNXQ/view?usp=sharing)
       - abnormal = [link](https://drive.google.com/file/d/14HtZQo2XizVJ7WOP78WB9tKi88gSvugW/view?usp=sharing)
   - data bersih (jika ingin langsung memproses tanpa generate sintetik data) = [link](https://drive.google.com/drive/folders/1ZvPjHA9kbxbxwJSu_o9LMdWK83wczfBn?usp=sharing)
